@@ -1,0 +1,41 @@
+p{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+body{
+    background-color: rgb(146, 142, 142);
+}
+
+h3{
+    text-decoration: underline;
+    text-align: center; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.h4Tab{
+    text-align: center;
+}
+
+.h4Equipo{
+    margin-left: 120px;
+    margin-bottom: 30px;
+}
+
+#mytab li a{
+    border-color: black;
+    background-color:rgb(164, 164, 164);
+}
+
+
+.myTabDiv .tab-pane{
+    border:solid 1px black; 
+    border-top: 0; 
+    background-color:rgb(134, 127, 127);
+}
+
+.myFont{
+    font-size: 18px;
+    color: rgb(124, 121, 121);
+}
